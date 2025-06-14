@@ -1,2 +1,3 @@
 # HouseLoanApproval
-A data mining assignment by using python to train model
+Using Python to train AI model and find the user whether being approve or reject for loan
+
